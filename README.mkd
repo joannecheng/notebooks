@@ -1,0 +1,12 @@
+# Notebooks
+
+A collection of misc [Jupyter Notebooks](http://jupyter.readthedocs.io/en/latest/install.html).
+Check out the [installation instructions](http://jupyter.readthedocs.io/en/latest/install.html)
+to install Jupyter Notebook.
+
+Make sure you run
+```
+pip install -r requirements.txt
+```
+
+to get all the Python requirements for these notebooks.
