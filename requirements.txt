@@ -45,7 +45,7 @@ music21==4.1.0
 nbconvert==4.2.0
 nbformat==4.1.0
 networkx==1.11
-nltk==3.2.5
+nltk==3.4.5
 notebook==4.2.2
 numpy==1.14.0
 olefile==0.44
