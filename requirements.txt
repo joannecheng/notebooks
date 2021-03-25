@@ -65,7 +65,7 @@ pyparsing==2.1.7
 pyproj==1.9.5.1
 python-dateutil==2.6.1
 pytz==2016.6.1
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==15.4.0
 qtconsole==4.2.1
 regex==2017.4.5
