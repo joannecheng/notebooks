@@ -37,7 +37,7 @@ jupyter-core==4.1.1
 keen==0.3.26
 MarkupSafe==1.0
 matplotlib==1.5.1
-mistune==0.7.3
+mistune==2.0.3
 msgpack-numpy==0.4.1
 msgpack-python==0.4.8
 murmurhash==0.28.0
