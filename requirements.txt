@@ -42,7 +42,7 @@ msgpack-numpy==0.4.1
 msgpack-python==0.4.8
 murmurhash==0.28.0
 music21==4.1.0
-nbconvert==4.2.0
+nbconvert==6.3.0
 nbformat==4.1.0
 networkx==1.11
 nltk==3.2.5
